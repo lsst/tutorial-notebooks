@@ -15,7 +15,7 @@ sentinel=$(
 # Leave some notebooks unchanged
 files="not-a-notebook.txt simple_notebook_1.ipynb somedir/simple_notebook_2.ipynb"
 exception_file="exceptions/exception_notebook_1.ipynb"
-pr_branch="dfuchs-test-pr"
+pr_branch="dfuchs-test-pr-again"
 update_exception=false
 
 # Parse commandline args
