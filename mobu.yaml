@@ -1,2 +1,3 @@
 exclude_dirs:
   - some-dir
+  - exceptions
