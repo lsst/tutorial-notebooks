@@ -14,7 +14,6 @@ name: CI
       - "u/**"
     tags:
       - "*"
-  pull_request: {}
 
 jobs:
   lint:
