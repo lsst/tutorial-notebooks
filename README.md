@@ -88,3 +88,4 @@ Note that 09a and 09b can only be used with uncached RSP Image "Weekly 2022_40".
 | 13a. Using The Image Cutout Tool With DP0.2 | Demonstration of the use of the image cutout tool with a few science applications. |
 | 14. Injecting Synthetic Sources Into Single-Visit Images | Inject artificial stars and galaxies into images. |
 | 15. Survey Property Maps | Use the tools to visualize full-area survey property maps. |
+| 15. Galaxy Cluster Weak Lensing | Select background galaxies by color and make a mean shape profile for galaxy cluster weak gravitational lensing analysis. |
