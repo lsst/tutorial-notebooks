@@ -43,7 +43,7 @@ Coming soon.
 
 ### Data Preview 0.3 (DP0.3)
 
-Documentation: [dp0-2.lsst.io](https://dp0-2.lsst.io).
+Documentation: [dp0-3.lsst.io](https://dp0-3.lsst.io).
 
 | Title  | Brief Description  |
 |---|---|
@@ -58,7 +58,7 @@ Documentation: [dp0-2.lsst.io](https://dp0-2.lsst.io).
 
 ### Data Preview 0.2 (DP0.2)
 
-Documentation: [dp0-3.lsst.io](https://dp0-3.lsst.io).
+Documentation: [dp0-2.lsst.io](https://dp0-2.lsst.io).
 
 Note that 09a and 09b can only be used with uncached RSP Image "Weekly 2022_40".
 
