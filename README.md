@@ -79,8 +79,6 @@ Note that 09a and 09b can only be used with uncached RSP Image "Weekly 2022_40".
 | 07a. DiaObject Samples | Use the DiaObject table parameters to identify a sample of time-variable objects of interest. |
 | 07b. Variable Star Lightcurves | Use the DP0.2 catalogs to identify variable stars and plot their lightcurves. |
 | 08. Truth Tables | Explore, retrieve, and compare data from the truth and measurement tables. |
-| 09a. Custom Coadd | Create a custom "deepCoadd" using only a subset of the input visits. |
-| 09b. Custom Coadd Sources | Detect and measure sources in a custom "deepCoadd" image. |
 | 10. Deblender Data Products | Use the outputs of the multiband deblender to explore the footprints of parent and child objects. |
 | 11. Working with User Packages | An example of how to install and set up user packages. |
 | 12a. Point Spread Function Data Products | A demonstration of how to access calexp and deepCoadd PSF properties. |
