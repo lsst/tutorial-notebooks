@@ -1,2 +1,3 @@
 exclude_dirs:
   - "DP0.2/11_User_Packages"
+  - "DP0.2/19a_Introduction_to_AI"
