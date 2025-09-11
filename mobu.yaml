@@ -1,5 +1,8 @@
 exclude_dirs:
   - "DP0.2/11_User_Packages"
   - "DP0.2/19a_Introduction_to_AI"
-  - "DP0.2/03c_Big_deepCoadd_Cutout.ipynb"
   - "MPC"
+collection_rules:
+  - type: exclude_union_of
+    patterns:
+      - "DP0.2/03c_Big_deepCoadd_Cutout.ipynb"
