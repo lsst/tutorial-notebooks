@@ -6,4 +6,3 @@ collection_rules:
   - type: exclude_union_of
     patterns:
       - "DP0.2/03c_Big_deepCoadd_Cutout.ipynb"
-      - "DP1/200_Data_Products/204_Calibrations/204_4_Bandpasses.ipynb"
