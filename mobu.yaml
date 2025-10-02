@@ -6,3 +6,5 @@ collection_rules:
   - type: exclude_union_of
     patterns:
       - "DP0.2/03c_Big_deepCoadd_Cutout.ipynb"
+      - "DP1/100_How_to_Use_RSP_Tools/103_Image_access_and_display/103_6_Color_Composite_Image.ipynb"
+      - "DP1/100_How_to_Use_RSP_Tools/103_Image_access_and_display/103_7_Big_deep_coadd_cutout.ipynb"
