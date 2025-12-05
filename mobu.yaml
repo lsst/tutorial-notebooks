@@ -2,6 +2,7 @@ exclude_dirs:
   - "DP0.2/11_User_Packages"
   - "DP0.2/19a_Introduction_to_AI"
   - "MPC"
+  - "Commissioning"
 collection_rules:
   - type: exclude_union_of
     patterns:
