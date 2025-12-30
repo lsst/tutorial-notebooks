@@ -20,12 +20,16 @@ To ask a question or report an issue (e.g., a bug), create a new topic in the Su
 
 See Rubin Observatory's Guidelines for User Tutorials document, [rtn-045.lsst.io](https://rtn-045.lsst.io/).
 
-### Licensing and Re-use
+### Licensing and re-use
 
 The content of these notebooks are licensed under the Apache 2.0 License, but use of the Vera C. Rubin logo is reserved.
 
 The content of these notebooks may be re-used, but the header and logo at the top of each notebook should not.
 Those re-using the contents of these notebooks should remove the original header and logo and provide their own, and not use the Rubin Observatory branding.
+
+### How to cite
+
+Publications that made use of the tutorials can cite the NSF-DOE Vera C. Rubin Observatory (2025), "Rubin Observatory LSST Tutorials", using [doi.org/10.11578/rubin/dc.20250909.20](https://www.osti.gov/doecode/biblio/162015).
 
 ### Acknowledgements
 
