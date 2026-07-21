@@ -11,3 +11,4 @@ collection_rules:
       - "DP1/100_How_to_Use_RSP_Tools/103_Image_access_and_display/103_6_Color_Composite_Image.ipynb"
       - "DP1/100_How_to_Use_RSP_Tools/103_Image_access_and_display/103_7_Big_deep_coadd_cutout.ipynb"
       - "DP1/200_Data_Products/206_Deblender_Products/206_2_Deblender_footprints.ipynb"
+      - "DP1/100_How_to_Use_RSP_Tools/105_Image_reprocessing/105_6_Create_custom_coadd_images.ipynb"
