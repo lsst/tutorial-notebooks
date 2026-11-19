@@ -24,3 +24,4 @@ collection_rules:
       - "DP2/300_Science_demos/303_Galaxies/303_4_Galaxy_morphology_classification.ipynb"
       - "DP2/300_Science_demos/303_Galaxies/303_5_Galaxy_morphology_clustering.ipynb"
       - "DP2/300_Science_demos/303_Galaxies/303_6_Galaxy_stellar_mass_regression.ipynb"
+      - "DP1/300_Science_Demos/306_Extragalactic_transients/306_4_Recalculate_reliabilty_scores.ipynb"
