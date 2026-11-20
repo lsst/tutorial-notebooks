@@ -23,5 +23,5 @@ collection_rules:
       - "DP2/300_Science_demos/303_Galaxies/303_4_Galaxy_morphology_classification.ipynb"
       - "DP2/300_Science_demos/303_Galaxies/303_5_Galaxy_morphology_clustering.ipynb"
       - "DP2/300_Science_demos/303_Galaxies/303_6_Galaxy_stellar_mass_regression.ipynb"
-      - "DP2/300_Science_Demos/305_Galactic_variables_and_transients/305_2_Stellar_variability_characterization.ipynb"
-      - "DP2/300_Science_Demos/311_Astronomical_analysis/311_2_Filter_Transformations.ipynb"
+      - "DP2/300_Science_demos/305_Galactic_variables_and_transients/305_2_Stellar_variability_characterization.ipynb"
+      - "DP2/300_Science_demos/311_Astronomical_analysis/311_2_Filter_Transformations.ipynb"
